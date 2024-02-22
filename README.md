@@ -1,5 +1,8 @@
 # Can LLMs Reason with Rules? Logic Scaffolding for Stress-Testing and Improving LLMs [[Paper]](https://arxiv.org/abs/2402.11442)
 
+![Illustration of Logic Scaffolding](assets/logical_scaffolding.png)
+
+![Pipeline of Primitive Rule Generation](assets/primitive_rule_generation.png)
 This repository hosts the codes of our logic scaffolding inferential rule generation framework for primitive rule generation and rule composition, and the data of our generated inferential rule base ULogic. 
 
 ## Demo
