@@ -1,0 +1,452 @@
+[
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Tool X cannot access Platform Y. \nPremise: If Platform Y operates on Technology Z1, Tool X was made in Time Period A, Technology Z1 was created by Person C, Person C works in Organization E, Organization E operates in Time Period B,",
+  "output": "Time Period B is later than Time Period A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Animal Y should avoid Drug X. \nPremise: If Drug X is formulated with Substance Z1,",
+  "output": "Animal Y eats Food A which contains Substance Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X can buy Game Y. \nPremise: If the price of Game Y is Money Z2, and Money Z1 is bigger than Money Z2,",
+  "output": "Person X has inherited Money Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Tool X can work with Material Y. \nPremise: If Tool X is coated with Substance A, and Material C can melt into Material E, and Material Y can solidify into Material E, and Material Z can melt into Material C,",
+  "output": "Substance A is resistant to Material Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Organization Y must comply with Legislation X. \nPremise: If Legislation X imposes Condition Z2,",
+  "output": "Organization Y requires Condition Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Material X cannot contain Food Y. \nPremise: If Material X has a Size Z1, Food Y has a Size Z2,",
+  "output": "Size Z1 is smaller than Size Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Technology X is accessible in Region Y. \nPremise: If Facility Z is built in Region Y,",
+  "output": "Technology X is sold in Facility Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Plant X lacks Skill Y. \nPremise: If Plant X does not adapt to Condition Z2,",
+  "output": "Skill Y requires Condition Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Artwork Y is not digitized by Technology X. \nPremise: If Technology X lacks Material Z1,",
+  "output": "Artwork Y requires Material Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Show X is produced at Time Period Y. \nPremise: If Job Z1 is active in Time Period Y,",
+  "output": "Job Z1 acts in Show X. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Material X is not in Show Y. \nPremise: If Material X is created in Facility C, which is operated by Organization A, and Organization A is active in Event E that occurred in Time Period Z1,",
+  "output": "Show Y is filmed during Time Period Z2 which is later than Time Period Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Technology X is incompatible with Tool Y. \nPremise: If Technology X is designed for Condition Z2,",
+  "output": "Tool Y damages Condition Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Skill Y is essential for Event X. \nPremise: If Skill Y is needed to operate Tool Z,",
+  "output": "Event X requires Tool Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Electronic Device X cannot be damaged by Alcohol Y. \nPremise: If Electronic Device X is made of Material Z1,",
+  "output": "Material Z1 is resistant to Alcohol Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Material X is transported in Vehicle Y. \nPremise: If Tool Z is carried by Vehicle Y,",
+  "output": "Material X is loaded in Tool Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Condition X is observed in Region Y. \nPremise: If Condition X occurs in Natural Place Z,",
+  "output": "Natural Place Z is part of Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X cannot use Authorization Y. \nPremise: If Person X has Job Title Z1,",
+  "output": "The industry standard for Authorization Y is Job Z2, but Job Z1 is different from Job Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X has knowledge of Disease Y. \nPremise: If Job Z1 involves treating Disease Y,",
+  "output": "Person X has Job Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Game X cannot be based on Artwork Y. \nPremise: If Game X was released before Time Period Z1, Artwork Y was created after Time Period Z2,",
+  "output": "Time Period Z1 is earlier than Time Period Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Plant X grows well in Natural Place Y. \nPremise: If Condition Z1 exists in Natural Place Y,",
+  "output": "Plant X is adapted to Condition Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X can buy Game Y. \nPremise: If Person X is of Age Z1 and the minimum age to buy Game Y is Age Z2,",
+  "output": "Age Z1 is bigger than Age Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X can access Electronic Device Y. \nPremise: If Person X is located in Region Z and Facility E is located in Facility C, and Facility C exports to Region A, and Region A is located in Region Z,",
+  "output": "Electronic Device Y is assembled in Facility E. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X can cook Food Y. \nPremise: If Person X has studied Skill Z,",
+  "output": "Skill Z is required for cooking Food Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Organization X must comply with Legislation Y. \nPremise: If Legislation Y prohibits Substance A, and Event Z2 requires Tool C, and Tool C is constructed from Material E, and Material E is composed of Substance A,",
+  "output": "Organization X sponsors Event Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Job X can be affected by Disease Y. \nPremise: If Material A contains Substance Z1, and Substance Z1 triggers Disease Y,",
+  "output": "Job X involves handling Material A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Drug X was created after Time Period Y. \nPremise: If Facility Z1 was established at Time Period Z2 which is later than Time Period Y,",
+  "output": "Drug X is developed in Facility Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Event X can cause Event Y. \nPremise: If Condition C contains Substance A, and Substance A is found in Food E, and Food E is known to cause Condition Z1, and Event Y requires Condition Z1,",
+  "output": "Event X occurs in Condition C. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Financial Product X can be influenced by Natural Phenomenon Y. \nPremise: If Condition A leads to Event Z2, and Event Z2 impacts Financial Product X,",
+  "output": "Natural Phenomenon Y causes Condition A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X needs to obtain Authorization Y. \nPremise: If Person X works in Job Z, and Job Z involves Event A, and Organization C is governed by Authorization Y,",
+  "output": "Event A is organized by Organization C. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Tool Y cannot detect Disease X. \nPremise: If Disease X requires Technology Z2 for detection, and Tool Y was invented by Person C who lived in Time Period A, and Time Period A is earlier than Time Period B,",
+  "output": "Technology Z2 was created by Person E who lived in Time Period B. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X cannot lead Organization Y. \nPremise: If Person X works in Job C which requires Skill Z1 and Skill Z1 requires Tool A but Skill Z2 does not require Tool A,",
+  "output": "Organization Y has a goal related to Skill Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X can maintain Plant Y. \nPremise: If Person X has a job A that requires Skill Z2,",
+  "output": "Plant Y is sensitive to Condition C which can be managed by Skill Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Show X cannot be watched on Electronic Device Y. \nPremise: If Show X requires Technology Z1, and Technology Z1 is made of Substance C,",
+  "output": "Substance C contains Material A, but Electronic Device Y does not contain Material A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X has the skills for Platform Y. \nPremise: If Tool C is operated by Skill Z1 which is developed for Platform Y,",
+  "output": "Person X has a job A that requires Tool C. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Animal X cannot access Publication Y. \nPremise: If Animal X existed in Time Period Z2 and Publication Y was printed in Time Period A,",
+  "output": "Time Period A is later than Time Period Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X can feed Animal Y. \nPremise: If Animal Y eats Food Z1,",
+  "output": "Person X cooks Food Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Organization X can access Publication Y. \nPremise: If Organization X was established during Event A, which occurred in Time Period Z1, and Time Period Z1 is earlier than Time Period Z2,",
+  "output": "Publication Y was published during Time Period Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X needs to obey Legislation Y. \nPremise: If Person X moves to Region Z,",
+  "output": "Legislation Y is enforced by Organization A which operates in Region Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X cannot eat Plant Y. \nPremise: If Plant Y contains Substance Z1,",
+  "output": "Person X is allergic to Substance Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Tool X can access Game Y. \nPremise: If Tool X is compatible with Platform Z,",
+  "output": "Game Y is adapted to Platform Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X can maintain Plant Y. \nPremise: If Job C requires Skill Z2, and Plant Y is sensitive to Condition A which can be managed by Skill Z2,",
+  "output": "Person X has Job C. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Facility X cannot be polluted by Substance Y. \nPremise: If Material A is composed of Substance C, and Substance C is extracted from Material Z1, and Material Z1 is resistant to Substance Y,",
+  "output": "Facility X has been renovated with Material A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Tool X can access Platform Y. \nPremise: If Technology Z is developed for Platform Y,",
+  "output": "Tool X is compatible with Technology Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Tool X cannot be dissolved in Alcohol Y. \nPremise: If Material Z1 is made of Substance A, and Substance A is non-reactive with Alcohol Y,",
+  "output": "Tool X is made of Material Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Event X can access Material Y. \nPremise: If Material Y is manufactured in Facility A, which is located in Region Z1,",
+  "output": "Event X is held in Region Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Tool X can explore Natural Place Y. \nPremise: If Tool X is resistant to Condition Z, and Region A is characterized by Condition Z,",
+  "output": "Natural Place Y is surrounded by Substance C which is located in Region A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X needs to use Authorization Y. \nPremise: If Person X is assigned to Region Z, and Region Z is part of Region C, and Region C has Legislation A, and Event E requires Authorization Y,",
+  "output": "Legislation A regulates Event E. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Natural Phenomenon X can disrupt Organization Y. \nPremise: If Natural Phenomenon X changes Condition E, and Condition E affects Event C, and Condition A leads to Event Z2, and Event Z2 affects Organization Y,",
+  "output": "Event C leads to Condition A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X needs to use Material Y. \nPremise: If Material Y is needed for Job Z,",
+  "output": "Person X has Job Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Job X is scarce in Region Y. \nPremise: If Job X is performed by Person C, and Person C works in Job E, and Tool A is required for Job E, and Tool A operates with Skill Z,",
+  "output": "Skill Z is not practiced in Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Organization X can access Tool Y. \nPremise: If Organization X operates in Region C, and Region C contains Region A, and Region A is part of Region E, and Tool Y is imported to Region Z1,",
+  "output": "Region E is part of Region Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Animal X cannot access Game Y. \nPremise: If Game Y is released in Region Z2, and Region Z1 is different from Region Z2,",
+  "output": "Animal X's natural habitat is Region Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Material Y can be used in Event X. \nPremise: If Material Y is the same as Material Z1,",
+  "output": "Material Z1 is necessary for Event X. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Organization X cannot sell Furniture Y. \nPremise: If Organization X is located in Region Z2 and Furniture Y violates Legislation A,",
+  "output": "Legislation A is passed in Facility C which governs Region Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X cannot buy Tool Y. \nPremise: If Person X works at Job C which pays Money Z1, and Tool Y is sold at Facility A with a price tag of Money Z2,",
+  "output": "Money Z1 is smaller than Money Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Technology X can be used in Region Y. \nPremise: If Technology X is required for Job A, and Job A is in Organization Z, and Organization Z operates in Facility C, and Facility C operates in Natural Place E,",
+  "output": "Natural Place E is included in Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Alcohol X cannot be consumed in Region Y. \nPremise: If Material C is composed of Substance A, and Substance A violates Legislation E, and Legislation E is enforced in Region Z1, and Region Y is a subregion of Region Z1,",
+  "output": "Alcohol X is made of Material C. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Facility X was established after Y. \nPremise: If Z1 is later than Y,",
+  "output": "Facility X was opened in Event Z, Event Z happened in Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Material Y is not affordable for Person X. \nPremise: If Person X works at Job A, and invests in Financial Product E, and the return of Financial Product E is Money Z1, and the price of Material Y is Money Z2, and Money Z1 is smaller than Money Z2,",
+  "output": "Person C also works in Job A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Organization X cannot access Drug Y. \nPremise: If Organization X is involved in Event A and Legislation Z2 prohibits Drug Y,",
+  "output": "Event A is regulated by Legislation Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Condition X is observed in Region Y. \nPremise: If Condition X occurs in Natural Place Z, and Natural Place Z is located in Region C, and Region A is surrounded by Region E, and Region E is part of Region Y,",
+  "output": "Region A contains Region C. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Technology X is incompatible with Technology Y. \nPremise: If Technology Y operates on Platform Z2, and Platform Z1 is not interoperable with Platform Z2,",
+  "output": "Technology X operates on Platform Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X can sponsor Event Y. \nPremise: If Person X earns Money Z1 and Organization A organizes Event C which is organized by Organization E that sets the price as Money Z2, and Money Z1 is bigger than Money Z2,",
+  "output": "Event Y is organized by Organization A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X needs to obtain Authorization Y. \nPremise: If Person X is interested in Event A, and Event A is hosted at Facility Z, and Organization C deals with Material E, and Material E is regulated by Authorization Y,",
+  "output": "Facility Z is owned by Organization C. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X avoids food from Plant Y. \nPremise: If Person A is the grandparent of Person X and Person A is allergic to Substance Z1,",
+  "output": "Plant Y absorbs Substance Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Vehicle X cannot be damaged by Alcohol Y. \nPremise: If Material A is made from Material Z1, and Material Z1 is made of Substance C, and Substance C is made of Material E, and Material E is non-alcoholic with respect to Alcohol Y,",
+  "output": "Vehicle X is coated with Material A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X cannot access Game Y. \nPremise: If Person X is under the age of Z1 and Z2 is greater than Z1,",
+  "output": "The minimum age for Game Y is Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X is responsible for Authorization Y. \nPremise: If Person X wants to enter Region Z,",
+  "output": "Region Z requires Authorization Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X must comply with the rules of Authorization Y. \nPremise: If Person X works in Job Z and Job Z uses Tool A,",
+  "output": "Tool A requires Authorization Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X is authorized in Facility Y. \nPremise: If Authorization Z1 is required for Event A, and Event A is conducted in Facility Y,",
+  "output": "Person X inherits Authorization Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Food X is available in Region Y. \nPremise: If Food X is shipped to Facility Z, and Organization C is a subsidiary of Organization A, and Organization A has decided on Region Y,",
+  "output": "Facility Z is purchased by Organization C. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Facility X is subject to the laws of Region Y. \nPremise: If Organization C is a subsidiary of Organization A, and Organization A has decided on Region Z, and Region Z is part of Region Y,",
+  "output": "Facility X is purchased by Organization C. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Substance X cannot corrode Electronic Device Y. \nPremise: If Substance X is made of Material Z1, and Electronic Device Y is assembled in Facility C which uses Material A, and Material A is composed of Material Z2, and Material Z2 shields Electronic Device E,",
+  "output": "Electronic Device E is constructed from Material Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Drug X cannot be packaged in Material Y. \nPremise: If Drug X is made from Material C, and Material C is melted from Material E, and Substance A reacts with Material Y,",
+  "output": "Material E is composed of Substance A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Substance X can be found in Region Y. \nPremise: If Substance X is extracted from Natural Place Z, and Natural Place Z is located in Region A,",
+  "output": "Region A is part of Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X can evaluate Artwork Y. \nPremise: If Person X has worked in Job A and Artwork Y is damaged and requires Skill Z1 for evaluation,",
+  "output": "Job A requires Skill Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Legislation X influences the law in Region Y. \nPremise: If Legislation X is passed in Facility Z,",
+  "output": "Region Y governs Facility Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X needs to obey Legislation Y. \nPremise: If Legislation Y applies to Event A which is conducted in Region Z,",
+  "output": "Person X lives in Region Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X needs to access Platform Y. \nPremise: If Tool A is supplied by Platform Y,",
+  "output": "Person X has Job Z, Job Z is performed by Person C, Person C uses Tool A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Skill X is valued in Region Y. \nPremise: If Job Z is popular in Region Y,",
+  "output": "Skill X is part of Job Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Age X is equal to Age Y. \nPremise: If Person Z1 is X years old and Person Z2 is Y years old, and Z2 are of the same age,",
+  "output": "Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X needs to submit Authorization Y. \nPremise: If Legislation A mandates Condition E, and Event C requires Condition E and also requires Authorization Y,",
+  "output": "Person X visits Region Z1 which has Legislation A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Plant X grows in Region Y. \nPremise: If Facility Z was in Region A, and Region A is decided to be Region Y,",
+  "output": "Plant X is cultivated in Facility Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X needs to present Authorization Y. \nPremise: If Region Z has Legislation A that mandates Authorization Y,",
+  "output": "Person X wants to enter Region Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Financial Product X is available in Region Y. \nPremise: If Facility Z is located in Region A, and Region A is part of Region Y,",
+  "output": "Financial Product X is sold by Facility Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X can access Financial Product Y. \nPremise: If Person X works in Facility A, and Organization Z1 distributes Financial Product Y,",
+  "output": "Facility A is part of Organization Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X needs to use Authorization Y. \nPremise: If Person X is assigned to Region Z, and Region Z is part of Region C, and Region C is governed by Facility E, and Legislation A is enacted by Facility E,",
+  "output": "Legislation A mandates Authorization Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X can access Financial Product Y. \nPremise: If Person X works in Facility A, which is owned by Organization C, and Organization C is part of Organization E, which in turn is part of Organization Z1,",
+  "output": "Organization Z1 distributes Financial Product Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X needs to avoid Substance Y. \nPremise: If Person X has Disease Z1,",
+  "output": "Substance Y aggravates Disease Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion and a part of its premise, please complete the remaining portion of the premise.",
+  "input": "Conclusion: Person X needs to prevent Disease Y. \nPremise: If Person X has Condition A, and Disease Z1 is associated with Condition A, and Disease Z1 complicates Condition C,",
+  "output": "Condition C aggravates Disease Y. #END#"
+ }
+]

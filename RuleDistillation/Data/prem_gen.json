@@ -1,0 +1,502 @@
+[
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Facility X can accommodate Game Y.",
+  "output": "Premise: If Facility X has Size Z1 and the size required for installing Game Y is Size Z2, and Size Z1 is bigger than Size Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Natural Place X is part of Region Y.",
+  "output": "Premise: If Natural Place X is surrounded by Region Z2 and Region Z2 is inside Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 1 facts.",
+  "input": "Conclusion: Authorization X is recognized in Region Y.",
+  "output": "Premise: If Authorization X is accepted in Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Alcohol X can damage Artwork Y.",
+  "output": "Premise: If Alcohol X is infused with Substance Z1 and Artwork Y is sensitive to Substance Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 1 facts.",
+  "input": "Conclusion: Facility X can access Natural Phenomenon Y.",
+  "output": "Premise: If Facility X is located at Natural Phenomenon Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Organization X can access Financial Product Y.",
+  "output": "Premise: If Organization X is registered in Region Z and Financial Product Y is sold in Region Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Legislation X can protect Animal Y.",
+  "output": "Premise: If Legislation X bans Event Z2, and Event Z2 destroys Natural Place A, and Animal Y is born in Natural Place C, which is located in Natural Place A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Alcohol X is produced in Facility Y.",
+  "output": "Premise: If Alcohol X is fermented in Facility Z3 and Facility Z3 is part of Facility Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Disease X cannot be researched in Publication Y.",
+  "output": "Premise: If Disease X was discovered after Time Period Z1, Publication Y was published before Time Period Z2, and Time Period Z2 is earlier than Time Period Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X can play Game Y.",
+  "output": "Premise: If Person X has inherited Money Z1 and the cost set by the developer for Game Y is Money Z2, and Money Z1 is bigger than Money Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Game X is not suitable for someone with Disease Y.",
+  "output": "Premise: If Game X requires Skill Z and Disease Y impairs Skill Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Technology X cannot access Material Y.",
+  "output": "Premise: If Technology X is made from Material A, and Material A is made from Material C, and Material C requires Condition Z, and Material Y has expired under Condition Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X cannot buy Tool Y.",
+  "output": "Premise: If Person X works at Job A which pays Money Z1 and Tool Y is bought for Money Z2, and if Money Z1 is smaller than Money Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 1 facts.",
+  "input": "Conclusion: Person X cannot manipulate Material Y.",
+  "output": "Premise: If Person X is allergic to Material Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Tool X must comply with Legislation Y.",
+  "output": "Premise: If Legislation Y prohibits Material A, and Tool Z1 is constructed with Material C which contains Material A, and Tool X is a type of Tool Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X can work for Organization Y.",
+  "output": "Premise: If Person X works in Job A which requires Skill Z1, and Organization Y needs Skill Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X can access Substance Y.",
+  "output": "Premise: If Person X works in Organization A, which is located in Region Z, and Substance Y is manufactured in Facility C, which is also located in Region Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 1 facts.",
+  "input": "Conclusion: Person X can apply for Job Y.",
+  "output": "Premise: If Person X has the required experience for Job Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Animal X can be featured in Publication Y.",
+  "output": "Premise: If Animal X lives in Region Z1 and Publication Y targets Region Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Financial Product X can be influenced by Natural Phenomenon Y.",
+  "output": "Premise: If Natural Phenomenon Y causes Condition A, and Condition A leads to Event Z2, and Event Z2 impacts Financial Product X. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Animal X can access Natural Phenomenon Y.",
+  "output": "Premise: If Animal X lives in Natural Place A, and Natural Place A is surrounded by Substance C, and Substance C is produced in Facility E, and Facility E is located in Region Z, and Natural Phenomenon Y occurs in Region Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Animal X is born in Natural Place Y.",
+  "output": "Premise: If Animal Z1 is the mother of Animal X and Animal Z1 is located in Natural Place Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Organization X must comply with Legislation Y.",
+  "output": "Premise: If Organization X is headquartered in Region A, and Region Z contains Region C, which in turn contains Region A, and Legislation Y applies to Event E, which is common in Region Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Plant X lacks Skill Y.",
+  "output": "Premise: If Plant X does not adapt to Condition Z2 and Skill Y requires Condition Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Alcohol X can damage Furniture Y.",
+  "output": "Premise: If Alcohol X is mixed with Alcohol C, and Alcohol C is fermented from Plant E, and Plant E contains Substance Z1, and Furniture Y is made from Material Z2, and Substance Z1 can dissolve Material A, and Material Z2 is made of Material A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X is not suitable for Furniture Y.",
+  "output": "Premise: If Person X has a weight of Weight Z1 and the maximum load of Furniture Y is Weight Z2, and Weight Z1 is bigger than Weight Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Plant X grows in Region Y.",
+  "output": "Premise: If Plant X is cultivated in Facility Z, and Facility Z was in Region A, and Region A is decided to be Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Furniture X cannot be cleaned with Substance Y.",
+  "output": "Premise: If Furniture X is made of Material Z1 and Substance Y dissolves Material A, which is used in Material Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Legislation X can regulate Game Y.",
+  "output": "Premise: If Legislation X is enforced in Region Z1 and Game Y is organized in Event A which is held in Region Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 1 facts.",
+  "input": "Conclusion: Disease X is prevalent in Region Y.",
+  "output": "Premise: If Disease X is endemic in Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X avoids food from Plant Y.",
+  "output": "Premise: If Person A is the grandparent of Person X and Person A is allergic to Substance Z1, and Plant Y absorbs Substance Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Drug X can enhance Substance Y.",
+  "output": "Premise: If Drug X is formulated with Substance Z1 and Substance Z1 boosts Substance Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Substance X cannot corrode Electronic Device Y.",
+  "output": "Premise: If Substance X is made of Material Z1, and Electronic Device Y is assembled in Facility C which uses Material A, and Material A is composed of Material Z2, and Material Z2 shields Electronic Device E, and Electronic Device E is constructed from Material Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 1 facts.",
+  "input": "Conclusion: Organization X can operate on Platform Y.",
+  "output": "Premise: If Organization X owns Platform Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X can buy Electronic Device Y.",
+  "output": "Premise: If Person X works at Job A which pays Money Z1, and Electronic Device Y is manufactured by Organization C which has set the price at Money Z2, and if Money Z1 is bigger than Money Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X needs to obtain Authorization Y.",
+  "output": "Premise: If Person X needs Facility Z, and Facility Z is owned by Organization A, and Organization A operates in Region C, and Region C mandates Authorization Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 1 facts.",
+  "input": "Conclusion: Animal X can access Game Y.",
+  "output": "Premise: If Animal X is trained for Game Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 1 facts.",
+  "input": "Conclusion: Financial Product X can be advertised on Show Y.",
+  "output": "Premise: If Financial Product X is relevant to Show Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Technology X can be used in Region Y.",
+  "output": "Premise: If Technology X is required for Job A, and Job A is in Organization Z, and Organization Z operates in Facility C, and Facility C operates in Natural Place E, and Natural Place E is included in Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Animal X cannot access Publication Y.",
+  "output": "Premise: If Animal X existed in Time Period Z2 and Publication Y was printed in Time Period A, and Time Period A is later than Time Period Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X is not an artist for Artwork Y.",
+  "output": "Premise: If Artwork Y requires Skill Z1 and Person X has participated in Event A which develops Skill Z2, but Skill Z2 is less than Skill Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Event X can access Material Y.",
+  "output": "Premise: If Event X is held in Region Z1 and Material Y is manufactured in Facility A, which is located in Region Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Person X can cook Food Y.",
+  "output": "Premise: If Person X has studied Skill Z and Skill Z is required for cooking Food Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Vehicle X cannot be damaged by Alcohol Y.",
+  "output": "Premise: If Vehicle X is coated with Material A, and Material A is made from Material Z1, and Material Z1 is made of Substance C, and Substance C is made of Material E, and Material E is non-alcoholic with respect to Alcohol Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Alcohol X can damage Technology Y.",
+  "output": "Premise: If Alcohol X is mixed with Alcohol C, and Alcohol C contains Substance Z1, and Technology Y requires Material E, and Material E reacts under Condition A, and Substance Z1 causes Condition A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Organization X cannot publish Publication Y.",
+  "output": "Premise: If Organization X operates in Region Z2 and Publication Y is published by Organization A, and Organization A has violated Legislation C which applies to Event E that is common in Region Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X cannot buy Tool Y.",
+  "output": "Premise: If Person X works at Job A and Person C also works in Job A, and Person C invests in Financial Product E which returns Money Z1, and Tool Y is listed for Money Z2, but Money Z1 is smaller than Money Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Material Y is not affordable for Person X.",
+  "output": "Premise: If Person X works at Job A, and Person C also works in Job A and invests in Financial Product E, and the return of Financial Product E is Money Z1, and the price of Material Y is Money Z2, and Money Z1 is smaller than Money Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X cannot lead Organization Y.",
+  "output": "Premise: If Person X works in Job C which requires Skill Z1 and Organization Y has a goal related to Skill Z2, and Skill Z1 requires Tool A but Skill Z2 does not require Tool A. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Legislation X is regulated in Region Y.",
+  "output": "Premise: If Legislation X applies to Event Z, and Event Z is caused by Natural Phenomenon A, and Natural Phenomenon A is formed in Natural Place C, and Natural Place C is located in Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Skill X is valued in Region Y.",
+  "output": "Premise: If Skill X is part of Job Z and Job Z is popular in Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X needs to obey Legislation Y.",
+  "output": "Premise: If Person X lives in Region Z and Legislation Y applies to Event A which is conducted in Region Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Drug X is available in Region Y.",
+  "output": "Premise: If Drug X is sold in Facility Z and Facility Z has moved to Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Platform Y needs protection from Natural Phenomenon X.",
+  "output": "Premise: If Natural Phenomenon X causes Event Z1 and Event Z1 impacts Platform Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X needs to use Material Y.",
+  "output": "Premise: If Person X has Job Z, and Job Z requires Tool A, and Tool A is produced by Facility C, and Facility C uses Material Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Substance X cannot prevent Disease Y.",
+  "output": "Premise: If Substance X is added to Food A, and Food A is an ingredient of Food Z1, and Food Z1 causes Disease Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Material X can be extracted from Region Y.",
+  "output": "Premise: If Material X is extracted by Person A, and Person A works in Facility C, and Facility C is situated in Natural Place Z, and Natural Place Z is located in Region E, and Region E is part of Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Food X is banned in Region Y.",
+  "output": "Premise: If Food X contains Substance Z and Substance Z is prohibited in Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X can access Furniture Y.",
+  "output": "Premise: If Person X was born in Time Period Z1 and Furniture Y was built in Time Period Z2, and Time Period Z2 is earlier than Time Period Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X must comply with the rules of Authorization Y.",
+  "output": "Premise: If Person X works in Job Z and Job Z uses Tool A, and Tool A requires Authorization Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Animal X cannot access Natural Phenomenon Y.",
+  "output": "Premise: If Animal X lives in Natural Place A which is located in Region Z1, and Natural Phenomenon Y occurs in Region Z2, and Animal C breeds in Facility E which is located in Region Z1, and Animal C does not exist in Region Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Animal X cannot access Game Y.",
+  "output": "Premise: If Animal X's natural habitat is Region Z1 and Game Y is released in Region Z2, and Region Z1 is different from Region Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X can access Financial Product Y.",
+  "output": "Premise: If Person X works in Facility A, and Facility A is part of Organization Z1, and Organization Z1 distributes Financial Product Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X needs to use Tool Y.",
+  "output": "Premise: If Person X has been promoted to Job Z1 and Tool Y is needed for Skill A, and Skill A is required for Job Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X applies for Authorization Y.",
+  "output": "Premise: If Person X works in Job Z, and Job Z involves Event A, and Event A is organized by Organization C, and Organization C operates in Region E, and Region E is controlled by Authorization Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Facility X can utilize Financial Product Y.",
+  "output": "Premise: If Facility X operates in Time Period Z1 and Financial Product Y is sponsored by Event C, and Event C is organized by Organization A which is active in Event E, and Event E occurs during Time Period Z2, and Time Period Z1 overlaps with Time Period Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Job Y cannot access Game X.",
+  "output": "Premise: If Game X needs Tool Z1 and Tool Z1 is broken in Job Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Alcohol X cannot be purchased in Region Y.",
+  "output": "Premise: If Substance X is illegal in Region Z1, and Region A contains Region E, and Region E contains Region Z1, and Region A is part of Region C, and Region C is part of Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Drug X cannot be packaged in Material Y.",
+  "output": "Premise: If Drug X is made from Material C, and Material C is melted from Material E, and Material E is composed of Substance A, and Substance A reacts with Material Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Age X is equal to Age Y.",
+  "output": "Premise: If Animal Z1 is X years old and Animal Z2 is Y years old, and Z1 and Z2 are of the same age. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Furniture X is sold in Region Y.",
+  "output": "Premise: If Furniture X is distributed by Organization Z, and Organization Z operates in Region A, and Region A is part of Region C, and Region C is part of Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Person X cannot eat Plant Y.",
+  "output": "Premise: If Person X is allergic to Substance Z1 and Plant Y contains Substance Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 1 facts.",
+  "input": "Conclusion: Person X needs to store Tool Y.",
+  "output": "Premise: If Person X uses Tool Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Person X can perform Job Z.",
+  "output": "Premise: If Person X has been promoted to Job Z and Skill Y is a standard requirement for Job Z. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Alcohol X cannot be purchased in Region Y.",
+  "output": "Premise: If Alcohol X contains Substance C, and Substance C is banned in Region Z1, and Region A is surrounded by Region E, and Region E is surrounded by Region Y, and Region A contains Region Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 1 facts.",
+  "input": "Conclusion: Person X needs to use Substance Y.",
+  "output": "Premise: If Person X is addicted to Substance Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X needs to submit Authorization Y.",
+  "output": "Premise: If Person X visits Region Z1 which has Legislation A, and Legislation A mandates Condition E, and Event C requires Condition E and also requires Authorization Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Person X has knowledge of Disease Y.",
+  "output": "Premise: If Person X has Job Z1 and Job Z1 involves treating Disease Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Person X can feed Animal Y.",
+  "output": "Premise: If Person X cooks Food Z1 and Animal Y eats Food Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X needs to obtain Authorization Y.",
+  "output": "Premise: If Person X is hired for Job Z and Job Z uses Tool A, and Tool A requires Authorization Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Person X applies for Authorization Y.",
+  "output": "Premise: If Person X works in Job Z and Job Z requires Authorization Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Financial Product X is available in Region Y.",
+  "output": "Premise: If Financial Product X is sold by Facility Z and Facility Z operates in Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Natural Phenomenon X can disrupt Organization Y.",
+  "output": "Premise: If Natural Phenomenon X changes Condition E, and Condition E affects Event C, and Event C leads to Condition A, and Condition A leads to Event Z2, and Event Z2 affects Organization Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Tool X can access Platform Y.",
+  "output": "Premise: If Tool X is compatible with Technology Z and Technology Z is developed for Platform Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: the Region Y is familiar with Natural Phenomenon X.",
+  "output": "Premise: If Region Y has a SocioEconomic Condition Z, and Condition Z causes an Event A, and Event A triggers Natural Phenomenon X. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X needs to use Authorization Y.",
+  "output": "Premise: If Person X is employed by Facility C, and Facility C is part of Organization A, and Organization A is located in Region Z, and Region Z has Legislation E, and Legislation E mandates Authorization Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Financial Product X is available in Region Y.",
+  "output": "Premise: If Financial Product X is sold by Facility Z, and Facility Z is located in Region A, and Region A is part of Region Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Drug X was created after Time Period Y.",
+  "output": "Premise: If Drug X is developed in Facility Z1, and Facility Z1 was established at Time Period Z2 which is later than Time Period Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X can manipulate Material Y.",
+  "output": "Premise: If Person X works in Job A and Job A requires Skill Z2, and Skill Z2 is needed for manipulating Material Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X has the skills for Platform Y.",
+  "output": "Premise: If Person X has a job A that requires Tool C, and Tool C is operated by Skill Z1 which is developed for Platform Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Organization X cannot access Drug Y.",
+  "output": "Premise: If Organization X is involved in Event A and Event A is regulated by Legislation Z2, and Legislation Z2 prohibits Drug Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X cannot use Authorization Y.",
+  "output": "Premise: If Person X has Job Title Z1 and the industry standard for Authorization Y is Job Z2, but Job Z1 is different from Job Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Technology X is incompatible with Technology Y.",
+  "output": "Premise: If Technology X operates on Platform Z1 and Technology Y operates on Platform Z2, and Platform Z1 is not interoperable with Platform Z2. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with 2 facts.",
+  "input": "Conclusion: Person X needs to avoid Substance Y.",
+  "output": "Premise: If Person X has Disease Z1 and Substance Y aggravates Disease Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X needs to prevent Disease Y.",
+  "output": "Premise: If Person X has Condition A, and Disease Z1 is associated with Condition A, and Disease Z1 complicates Condition C, and Condition C aggravates Disease Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Organization X can access Tool Y.",
+  "output": "Premise: If Organization X operates in Region C, and Region C contains Region A, and Region A is part of Region E, and Region E is part of Region Z1, and Tool Y is imported to Region Z1. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Facility X was established after Y.",
+  "output": "Premise: If Facility X was opened in Event Z, Event Z happened in Z1, and Z1 is later than Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X needs to use Authorization Y.",
+  "output": "Premise: If Person X is assigned to Region Z, and Region Z is part of Region C, and Region C is governed by Facility E, and Legislation A is enacted by Facility E, and Legislation A mandates Authorization Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Facility X cannot be polluted by Substance Y.",
+  "output": "Premise: If Facility X has been renovated with Material A, and Material A is composed of Substance C, and Substance C is extracted from Material Z1, and Material Z1 is resistant to Substance Y. #END#"
+ },
+ {
+  "instruction": "Given the conclusion, please generate its premise with more than 2 facts.",
+  "input": "Conclusion: Person X can access Financial Product Y.",
+  "output": "Premise: If Person X works in Facility A, which is owned by Organization C, and Organization C is part of Organization E, which in turn is part of Organization Z1, and Organization Z1 distributes Financial Product Y. #END#"
+ }
+]
