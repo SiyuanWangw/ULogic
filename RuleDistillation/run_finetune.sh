@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=0 python finetune_v3-instruct.py \
+CUDA_VISIBLE_DEVICES=0 python finetune-instruct.py \
     --base model './lora-alpaca/mistral-7b-instruct' \
     --data_path '../Data/general/training_data_d0.json' \
     --dev_data_path '../Data/general/training_data_5000.json' \
