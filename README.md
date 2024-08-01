@@ -46,7 +46,14 @@ bash run_generate.sh
 ```
 
 ## Demo
-We provide a [demo](http://210.16.188.56:59998) for our inference engine.
+We provide a [demo](http://210.16.188.56:59998) for our inference engine.   
+
+*Considering the security of external access ports on the server, our demo is no longer accessible.*   
+We have uploaded the streamlit implementation of our web demo. You can train a model following above rule distillation, and run
+```bash
+CUDA_VISIBLE_DEVICES=0 streamlit run web_demo.py --server.fileWatcherType none --server.port 8888
+```
+to run a demo in your local server.
 
 ## Authors and Citation
 
